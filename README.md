@@ -14,4 +14,4 @@ ironman install https://github.com/ottogiron/ironman-osx-automation-template.git
 ironman generate dev-osx-automation <directory-name> --set moduleName=hello 
 ```
 
-Follow the instructions on how to build and run the example on the module README, then make your own modifications.
+Follow the instructions on how to build and run the example check the generated module README, then make your own modifications.
