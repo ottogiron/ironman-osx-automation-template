@@ -1,0 +1,1 @@
+console.log("Hello {{.Values.moduleName | default "automation module!" }}");
