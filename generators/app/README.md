@@ -30,7 +30,7 @@ webpack --watch
 
 ## Running the module
 
-The default example uses the text to speach feature of OSX. Check [index.js](src/index.js)
+The default example uses the text to speech feature of OSX. Check [index.js](src/index.js)
 
 ```
 sh dist/main.sh
