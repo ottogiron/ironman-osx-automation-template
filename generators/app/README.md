@@ -27,3 +27,9 @@ Watch (file changes) compilation
 ```
 webpack --watch
 ```
+
+## Running the module
+
+```
+sh dist/main.sh
+```
