@@ -1,3 +1,5 @@
 import Util from './util';
 
-console.log(Util.Hello("{{.Values.moduleName | default "automation module!" }}"));
+const app = Application.currentApplication();
+app.includeStandardAdditions = true;
+app.say(Util.Hello("{{.Values.moduleName | default "spaceman"}}"));
